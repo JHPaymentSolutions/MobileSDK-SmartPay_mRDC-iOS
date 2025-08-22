@@ -16,8 +16,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "SmartPay_mRDC",
-            url: "https://github.com/JHPaymentSolutions/MobileSDK-SmartPay_mRDC-iOS/releases/download/1.0.1/JackHenryMobileSDK-SmartPay_mRDC.xcframework.zip",
-            checksum: "4979bf37536086173ab705d3a1dc7c8ea306ac27853c651d33cd0a2a935969dd"
+            url: "https://github.com/JHPaymentSolutions/MobileSDK-SmartPay_mRDC-iOS/releases/download/1.0.2/JackHenryMobileSDK-SmartPay_mRDC.xcframework.zip",
+            checksum: "aeb2b0fc7d03a724b905116e971e13a910daadf1e34683187a1c22992f1edcbe"
         ),
     ]
 )
